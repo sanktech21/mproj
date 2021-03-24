@@ -1,0 +1,4 @@
+node_modules/*
+test-files/*
+src-files/*
+week1/trigger-func-folder/node_modules/*
